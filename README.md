@@ -1,6 +1,12 @@
 **My unique skills and traits that will help businesses. **
 
 Hello my name is Mathew Coe I have a background in accounting, financial analysis, business analysis, project implementation, cloud database migration and data science.
+I am skilled in simplyfying complex problems into simple problems that both business and technical teams can both understand.
+
+I have years of experience in the business world solving complex business problems and increasing user adoption to technology.
+
+📫 How to reach me https://www.linkedin.com/in/mathew-coe/
+
 
 **Technical Skills**
 
@@ -29,7 +35,7 @@ As companies are expanding on how they are using data, data literacy is integral
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on data science
-- 📫 How to reach me https://www.linkedin.com/in/mathew-coe/
+
 
 <!---
 MathewCoe/MathewCoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
