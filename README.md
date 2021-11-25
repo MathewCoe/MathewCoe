@@ -36,8 +36,10 @@ As companies are expanding on how they are using data, data literacy is integral
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on data science
 
+![image](https://user-images.githubusercontent.com/91794104/143507416-96e924ac-e5f6-48d9-b4dd-bbde9cc7e780.png)
 
-<!---
-MathewCoe/MathewCoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
+
