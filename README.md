@@ -38,6 +38,11 @@ As companies are expanding on how they are using data, data literacy is integral
 
 ![image](https://user-images.githubusercontent.com/91794104/143507416-96e924ac-e5f6-48d9-b4dd-bbde9cc7e780.png)
 
+**About**
+
+![image](https://user-images.githubusercontent.com/91794104/145693408-dd5a4242-78f2-4ef2-8045-95642598b69c.png)
+
+
 
 
 
